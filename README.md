@@ -1,4 +1,4 @@
-# Apollo Travels - PHP Final Project 🚀
+# 🚀 Apollo Travels - PHP Final Project 🚀
 # Description
 
 This is the final source code for the final PHP/SQL project that was created for the purpose of the PHP Programming course, with professor [Gregory Prokopski](https://www.linkedin.com/in/prokopski/) 🔗.
