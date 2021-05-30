@@ -1,0 +1,77 @@
+{% extends "master.html.twig" %}
+
+{% block title %}landing
+{% endblock %}
+
+{% block content %}
+<div class="row black">
+    <div style="width:180px;" class="anim">
+        <img id="logo" src="/images/logo_astronaut.png" alt="astronaut" style="position:absolute; top:12vh; right:8vh;">
+    </div>
+    <div class="col m4 s12" style="position:absolute; top:20vh; left:8vh; width:60vh;">
+        <h1 class="flow-text white-text" style="font-size:4rem; font-weight:bold; margin-bottom:0;">Book your
+            training
+        </h1>
+        <p class="flow-text white-text" style="font-weight:200; font-size:2.9rem;">
+            Open space for
+            everyone</p>
+        <p class="flow-text white-text" style="font-size:1.8rem; font-weight:200; margin: 1vh 0;">The
+            Dragon spacecraft is
+            capable of carrying up to seven passengers to and from Earth orbit, and beyond. It is the
+            first private
+            spacecraft to take humans to the space station.</p>
+        <p class="left-align"><a href="/booking"><input class="btn btn-large waves-effect waves-light" type="submit"
+                    name="action" value="Book now!" /></a>></p>
+    </div>
+    <div class="right col l8 m10 s12">
+        <img class="responsive-img" src="/images/earth.jpg" alt="dragon" style="width: 100%;">
+    </div>
+</div>
+<div class="row">
+    <div class="col s12 ">
+        <h2 class="center-align white-text flow-text " style=" font-size:5vw;">NASA SpaceX Crew Dragon Launch.
+        </h2>
+        <img class="responsive-img" src="/images/DR_4.jpg" alt="starship" style="width: 100%;">
+        <div class="video-container">
+            <iframe width="100%" src="https://www.youtube.com/embed/1gmvUPTdoP4" frameborder="0"
+                allowfullscreen></iframe>
+        </div>
+    </div>
+</div>
+<div class="row">
+    <div class="col s12 ">
+        <h2 class="center-align white-text flow-text " style=" font-size:5vw;"></h2> Learn more about <a
+            class="teal-text" href="/dragon">Dragon</a>
+        </h2>
+        <img class="responsive-img" src="/images/DR_8.jpg" alt="starship" style="width: 100%;">
+    </div>
+</div>
+
+<div class="row " style="margin-top: 5rem;">
+    <div class="col s12 ">
+        <h2 class="center-align white-text flow-text " style=" font-size:5vw;"><a class="teal-text"
+                href="/starship">Starship</a> launch in South Texas.
+        </h2>
+        <div class="col s12">
+            <img class="responsive-img" src="/images/STR_4.jpg" alt=" dragon" style="width: 100%;">
+        </div>
+    </div>
+</div>
+<div class="row ">
+    <div class="col s12 ">
+        <div class="video-container ">
+            <iframe width="100%" src="https://www.youtube.com/embed/C8JyvzU0CXU" frameborder="0"
+                allowfullscreen></iframe>
+        </div>
+    </div>
+</div>
+<div class="row">
+    <div class="col s12 ">
+        <h2 class="center-align white-text flow-text " style=" font-size:5vw;">Book your training <a class="teal-text"
+                href="/booking">here</a>
+        </h2>
+        <img class="responsive-img" src="/images/STR_6.jpg" alt="starship" style="width: 100%;">
+    </div>
+</div>
+
+{% endblock %}
