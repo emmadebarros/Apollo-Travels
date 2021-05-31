@@ -46,7 +46,7 @@ Also make sure to checkout the [Deposit](http://apollo.ipd24.ca/bookingdeposit) 
 * [Materialize](https://materializecss.com/getting-started.html) 🔗
 
 
-## Contributors:
+## Contributors
 [Elina Sardaryan](https://www.linkedin.com/in/elina-sardaryan/) 🔗   
 [Raisa Stepanova](https://www.linkedin.com/in/raisa-stepanova-timina-0b711a202/) 🔗   
 [myself, Emma De Barros](https://www.linkedin.com/in/emma-de-barros/) 🔗
