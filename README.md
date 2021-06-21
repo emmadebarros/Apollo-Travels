@@ -57,4 +57,4 @@ Here is the link to our [Trello Board](https://trello.com/b/KQgY9ITw/apollotrave
 
 You'll also find in this repository our DailyScrum folder, that demonstrates our understanding and use of delivery methodologies used in the industry to date such as SCRUM, LEAN, AGILE and Version Control. 
 
-If you're interested in seeing all of the team's commits and final presentation of the project, you can also take a look at our [Bitbucket repository](https://bitbucket.org/emma96/apollotravels/src/master/) 🔗 and [Final Presentation PowerPoint](https://johnabbott-my.sharepoint.com/:p:/r/personal/6169535_johnabbottcollege_net/_layouts/15/Doc.aspx?sourcedoc=%7B8188546C-C7D4-4EB8-A8B8-41ED9CF69B3F%7D&file=Presentation6.pptx&wdOrigin=OFFICECOM-WEB.START.REC&ct=1622410717283&action=edit&mobileredirect=true) 🔗.
+If you're interested in seeing all of the team's commits and final presentation of the project, you can also take a look at our [Bitbucket repository](https://bitbucket.org/emma96/apollotravels/src/master/) 🔗 and [Final Presentation PowerPoint PDF](https://github.com/emmadebarros/Apollo-Travels/tree/main/Presentation) 🔗.
