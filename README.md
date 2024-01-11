@@ -13,6 +13,8 @@ This project highlighted and improved my knowledge of API's, AJAX calls and indu
 
 ## Usage
 
+> :warning: **The website wsa shut down**
+
 You can access the website by clicking here ➡ [Apollo Travels](http://apollo.ipd24.ca/) 🔗.
 
 #### Regular User
@@ -23,7 +25,7 @@ password: Doe123
 username: frida@admin.ca
 password: Frida123
 
-To experiment the use of Middleware and Sessions, that are implemented to make sure that a regular user can't access admin functionalities, try accessing <http://apollo.ipd24.ca/admin> as a regular user and try accessing <http://apollo.ipd24.ca/booking> without being signed in.
+To experiment the use of Middleware and Sessions, implemented to make sure that a regular user can't access admin functionalities, try accessing <http://apollo.ipd24.ca/admin> as a regular user and try accessing <http://apollo.ipd24.ca/booking> without being signed in.
 
 Also make sure to checkout the [Deposit](http://apollo.ipd24.ca/bookingdeposit) page!
 
