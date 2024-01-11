@@ -13,7 +13,7 @@ This project highlighted and improved my knowledge of API's, AJAX calls and indu
 
 ## Usage
 
-> :warning: **The website wsa shut down**
+> :warning: **The website was shut down**
 
 You can access the website by clicking here ➡ [Apollo Travels](http://apollo.ipd24.ca/) 🔗.
 
